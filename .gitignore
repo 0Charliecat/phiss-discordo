@@ -104,4 +104,5 @@ dist
 .tern-port
 
 # CharlieCattos Keychain file
-.keychain.json
+.keychain.json*
+keychain.json*
