@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# CharlieCattos Keychain file
+.keychain.json
